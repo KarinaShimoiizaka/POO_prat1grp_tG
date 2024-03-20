@@ -27,6 +27,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -35,8 +36,18 @@
     "kotlin-language-version-configured": "true",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
+=======
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;produto&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+>>>>>>> produto
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -54,7 +65,11 @@
       <updated>1710945842388</updated>
       <workItem from="1710945843582" duration="101000" />
       <workItem from="1710947056987" duration="76000" />
+<<<<<<< HEAD
       <workItem from="1710947482192" duration="37000" />
+=======
+      <workItem from="1710947948918" duration="37000" />
+>>>>>>> produto
     </task>
     <servers />
   </component>
